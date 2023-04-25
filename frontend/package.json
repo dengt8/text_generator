@@ -1,0 +1,19 @@
+{
+  "name": "text_generator",
+  "version": "1.0.0",
+  "description": "paraphraser ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengt8/text_generator.git"
+  },
+  "author": "Denys Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengt8/text_generator/issues"
+  },
+  "homepage": "https://github.com/dengt8/text_generator#readme"
+}
